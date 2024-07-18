@@ -21,9 +21,7 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     _getCategories();
   }
-
-//git push test 
-
+  
   @override
   Widget build(BuildContext context) {
     _getCategories();
